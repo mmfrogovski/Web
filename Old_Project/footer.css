@@ -1,0 +1,45 @@
+
+.footer ul{
+	margin-left:-33px;
+	background: rgba(20,15,11,0.8);
+	height: auto;
+	width: 100%;
+	list-style: none;
+	float:left;
+}
+.footer{
+	margin-top: 5px;
+	height: 3.6vw;
+	float: left;
+	width: 100%;
+	border-top:2px solid silver; 
+}
+
+.footer ul li a{
+	display: table;
+	background-color: rgba(20,15,11,0.1);
+	margin-left: -50px; 
+	width: auto;
+	height: auto;
+	text-decoration: none;
+}
+.footer ul li a:hover{
+background-color:white; 
+}
+.footer div h2{
+	display: flex;
+	justify-content: center;
+	color:white;
+	font-family: Arial;
+	font-size: 5vw;
+}
+
+.footer ul{
+		float: left;
+		height: 4vw;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+
